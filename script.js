@@ -9,3 +9,9 @@ document.querySelector(`.x`).classList.add(`hid`)
         document.querySelector(`.x`).classList.remove(`hid`)
     })
 console.log(ham)
+class car {
+    constructor(name, firstName){
+        this.name = name;
+        this.firstName = firstName
+    }
+}
